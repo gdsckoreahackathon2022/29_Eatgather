@@ -52,3 +52,15 @@
 ## 🌱Eatgather의 확장성🌱
 - 배달 주문까지 바로 갈 수 있도록 연결한다면 불필요한 중복된 배달을 줄여 노동력과 비용, 환경보호까지 더 쉽게 이어질 수 있습니다.
 - 더 나은 앱 사용환경을 위해 신고 및 평가 기능을 추가 할 예정입니다.
+
+## ✅사용 기술✅
+- Ktor: 웹 서버 프레임워크
+- Exposed: SQL ORM 프레임워크
+- AWS RDS
+- AWS EC2
+- Firebase Realtime Database
+- Google API (OAuth2)
+- Kakao SDK
+- Naver Map SDK
+- Android
+- Retrofit

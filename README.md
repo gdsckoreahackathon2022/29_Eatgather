@@ -4,6 +4,7 @@
             (직관적인 UI와 쉬운 접근성이라는 차별점)을 가지는 플랫폼 입니다📗
             
    [💫발표자료 보러가기💫](https://docs.google.com/presentation/d/1VQFQYDtbdfcwvtTlgpvH2kdix3yz8mI-GJ9qeJY9nfQ/edit?usp=sharing)
+   
    [🌈Figma 보러가기🌈](https://www.figma.com/file/RVGVr0oUeiGsf5GCT6SIkv/Eatgather?node-id=0%3A1)
 
 ## 🛣아이디어 도출 배경🛣

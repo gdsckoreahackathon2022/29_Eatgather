@@ -29,13 +29,16 @@
 
 ## ✅주요 기능✅
 - 카카오 로그인, 구글 로그인으로 로그인 (구현 완료)
+
 ![스플래시](https://user-images.githubusercontent.com/55349553/152625093-04d2a4ca-196a-46d9-9c38-bf68db2c8dee.png)
 
 - 같이 배달시키고 싶은 주문을 실시간으로 등록하는 기능 (구현 완료)
+
 ![주문등록](https://user-images.githubusercontent.com/55349553/152625127-a18b8434-9661-451f-95f1-95b99b79ba22.png)
 ![상세주문](https://user-images.githubusercontent.com/55349553/152625143-ccd3c687-d611-4b41-be42-d5eb673e7788.png)
 
 - 지도에 등록된 정보들을 핀으로 표시하고 현재 위치에서 거리순으로 recycler view에 보여주는 기능 (구현 완료)
+
 ![홈화면](https://user-images.githubusercontent.com/55349553/152625111-d7fcb9f8-4ef6-4c5a-b424-aa9e1e02a540.png)
 - 등록한 주문 중에서 같이 하고 싶은 주문자와 채팅 기능 (구현 완료)
 
